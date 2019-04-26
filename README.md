@@ -1,9 +1,7 @@
-# let-me-write-something
+# This my GitHubPage!
 
-> 我建立了这个仓库。想写点什么，然后又不知道去写什么
+> 这个是我的github首页面！
+> Powered by 天然糖分！
 
-    git pull origin master --allow-unrelated-histories
 
-&copy; 2018 [SenChuuhi][1]
-
-[1]: https://senchuuhi.com
+&copy; 2019 天然糖分
